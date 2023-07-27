@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Gonzalez</h1>
-<h3 align="center">Hello! I'm a 20-year-old web development student, and my passion for programming drives me to explore new technologies and constantly improve my skills.</h3>
+<h3 align="center">Hello! I'm a 20 years old web development student, and my passion for programming drives me to explore new technologies and constantly improve my skills.</h3>
 
 - 🔭 I’m currently working on **my React course final proyect**
 
